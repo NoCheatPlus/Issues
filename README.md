@@ -1,14 +1,8 @@
 # Issues
-Issues managment for the NoCheatPlus project.
+Issues management for the NoCheatPlus project.
 
-CURRENTLY ISSUES ARE SOLELY FOR SETTING UP THE ISSUES PROJEKT ITSELF, TICKETS RELATING TO THE PLUGIN OR DOCS WILL BE CLOSED IMMEDIATELY.
+CURRENTLY ISSUES ARE BEING MIGRATED FROM BukkitDev, latest issues are still missing. All issues for the NoCheatPlus project will be moved here.
 
-All issues for the NoCheatPlus project will be moved here.
+## Old locations for issues
 
-## Current locations for issues
-
-Issues for the documentation only:
-https://github.com/NoCheatPlus/Docs/issues
-
-Issues for all aspects of NoCheatPlus:
 http://dev.bukkit.org/bukkit-plugins/nocheatplus/tickets/
