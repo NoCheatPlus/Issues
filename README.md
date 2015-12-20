@@ -1,8 +1,41 @@
 # Issues
-Issues management for the NoCheatPlus project.
 
-CURRENTLY ISSUES ARE BEING MIGRATED FROM BukkitDev, latest issues are still missing. All issues for the NoCheatPlus project will be moved here.
+Issues management for the NoCheatPlus project. Does include CompatNoCheatPlus, Docs and NCPTools.
 
 ## Old locations for issues
 
+The old tickets location will soon be closed down:
+
 http://dev.bukkit.org/bukkit-plugins/nocheatplus/tickets/
+
+## Labels
+
+Labels are sorted into categories, to allow better sorting and distinction.
+
+(a) 'This is a...', essential grouping by bug, false positive, feature, ...
+
+(c) More abstract affected area, like gameplay, administration, cheat, ...
+
+(c.1) More confined category / check group.
+
+(p) External/future relation (compat, external, future...).
+
+(p.1) Project relation (NCP, cncp, ...).
+
+(q) Quality assurance: attention needed (something missing, need reproduce, ...), short term rather.
+
+(q.1) Importance (less catching the eye).
+
+(r) Resolution (soft): Essential changes have been made, possibly resolved already.
+
+(r.1) Resolution (final): Closed.
+
+The first categories should always be set: (a), (c). (c.1) if it applies, (p) and/or (p.1) if any apply.
+
+## Headline
+
+Prefer staff to alter headlines to match the issue precisely. Add checks or related information not covered by labels in braces.
+
+Examples: 
+* "NCP no werk" -> Explosion with stepping on a pressure plate with TNT underneath (Minecraft).
+* "Teleport in air = kick" -> Set-back loop with teleport into air (SurvivalFly, PaperSpigot).
