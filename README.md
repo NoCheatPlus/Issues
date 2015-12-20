@@ -30,7 +30,7 @@ Labels are sorted into categories, to allow better sorting and distinction.
 
 (r.1) Resolution (final): Closed.
 
-The first categories should always be set: (a), (c). (c.1) if it applies, (p) and/or (p.1) if any apply.
+The first categories should always be set: (a), (c). (c.1) if it applies, (p) and/or (p.1) if any apply. On closing a ticket, (r) or (r.1) should be set.
 
 ## Headline
 
