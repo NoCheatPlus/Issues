@@ -4,9 +4,7 @@ Issues management for the NoCheatPlus project. Does include CompatNoCheatPlus, D
 
 ## Old locations for issues
 
-The old tickets location will soon be closed down:
-
-http://dev.bukkit.org/bukkit-plugins/nocheatplus/tickets/
+The old tickets location has been closed down (http://dev.bukkit.org/bukkit-plugins/nocheatplus/tickets/). It would still be possible to reference the old tickets by direct links, in case it should be necessary.
 
 ## Labels
 
