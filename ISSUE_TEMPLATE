@@ -1,11 +1,11 @@
-### Short description of the issue.
+#### Short description of the issue.
 
-### Complete output of the _ncp version_ command (please prefer text here).
+#### Complete output of the _ncp version_ command (please prefer text here).
 
-### How to reproduce the issue (is it random / always happens / side conditions)?
+#### How to reproduce the issue (is it random / always happens / side conditions)?
 
-### Have you made any (noteworthy) changes to the default configuration of NCP?
+#### Have you made any (noteworthy) changes to the default configuration of NCP?
 
-### Do you run any other special plugins that affect game mechanics next to NC+ (adding skills, machines, adding/changing blocks, other anti cheating)?
+#### Do you run any other special plugins that affect game mechanics next to NC+ (adding skills, machines, adding/changing blocks, other anti cheating)?
 
-### Use GitHub gists or http://pastebin.com/ or similar for huge logs! Link images/videos, for issues with moving consider: https://github.com/NoCheatPlus/Docs/wiki/Debugging#on-the-fly-debug-output-for-individual-players
+#### Use GitHub gists or http://pastebin.com/ or similar for huge logs! Link images/videos, for issues with moving consider: https://github.com/NoCheatPlus/Docs/wiki/Debugging#on-the-fly-debug-output-for-individual-players
