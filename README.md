@@ -2,6 +2,8 @@
 
 Issues management for the NoCheatPlus project. Does include CompatNoCheatPlus, Docs and NCPTools.
 
+Note the issue template: https://github.com/NoCheatPlus/Issues/blob/master/ISSUE_TEMPLATE
+
 ## Old locations for issues
 
 The old tickets location has been closed down (http://dev.bukkit.org/bukkit-plugins/nocheatplus/tickets/). It would still be possible to reference the old tickets by direct links, in case it should be necessary.
